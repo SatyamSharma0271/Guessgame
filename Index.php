@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> 6cc0dadb </title>
+<title>6cc0dadb</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
